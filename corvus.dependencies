@@ -6,39 +6,33 @@
     "remote": "github"
   },
   {
-    "repository": "aza786/vendor_xiaomi_kenzo",
+    "repository": "MrJarvis698/OLD_proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi/kenzo",
     "branch": "ten",
     "remote": "github"
   },
   {
-    "repository": "aza786/kernel_xiaomi_msm8956",
+    "repository": "MrJarvis698/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
-    "branch": "shinelotus",
-    "remote": "github"
-  },
-  {
-    "repository": "aza786/android_hardware_qcom-caf_msm8952",
-    "target_path": "hardware/qcom-caf/msm8952",
-    "branch": "10",
-    "remote": "github"
-  },
-  {
-    "repository": "aza786/android_hardware_qcom_display",
-    "target_path": "hardware/qcom-caf/msm8952/display",
-    "branch": "queencake",
-    "remote": "github"
-  },
-  {
-    "repository": "aza786/android_hardware_qcom_media",
-    "target_path": "hardware/qcom-caf/msm8952/media",
-    "branch": "queencake",
-    "remote": "github"
-  },
-  {
-    "repository": "aza786/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom-caf/msm8952/audio",
     "branch": "ten",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/msm8952/display",
+    "branch": "lineage-17.1-caf-msm8952",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/msm8952/media",
+    "branch": "lineage-17.1-caf-msm8952",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom-caf/msm8952/audio",
+    "branch": "lineage-17.1-caf-msm8952",
     "remote": "github"
   }
 ]
