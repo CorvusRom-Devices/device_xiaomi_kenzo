@@ -59,8 +59,8 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_BOOT_ANIMATION_RES := 1080
     
 #Official Corvus
-#DU_BUILD_TYPE := OFFICIAL
-#scr_resolution := 1080
+DU_BUILD_TYPE := OFFICIAL
+scr_resolution := 1080
 #USE_GAPPS := true
 
 # Vanilla Specifics
